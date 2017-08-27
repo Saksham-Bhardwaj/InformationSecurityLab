@@ -86,7 +86,7 @@ int main()
 	string encrypt , decrypt;
 	
 	encrypt = Encrypt(text);
-	decrypt = Decrypt(encrypt);
+	decrypt = Decrypt(encrypt);1
 	
 
 	//cout<<"Plain text :\t"<<text<<endl;
